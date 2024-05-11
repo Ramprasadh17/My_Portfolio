@@ -159,11 +159,9 @@ function Resume() {
             </div>
           </div>
           <div id="work">
-            <p className="content_heading work" style={{ marginTop: "-10px" }}>
-              Projects
-            </p>
+            <p className="content_heading work">Projects</p>
             <p className="project_content">
-              <p style={{ marginTop: "-8px" }}>
+              <p>
                 <b style={{ fontSize: "50px" }}>Chat Application</b>
                 <a
                   href="https://github.com/Ramprasadh17/Chat_Application.git"
@@ -226,20 +224,12 @@ function Resume() {
                   UI elements.
                 </li>
               </ol>
-              <p>
-                <b>Conclusion:</b> As a full-stack developer proficient in the
-                MERN stack, I successfully created a feature-rich chat
-                application encompassing frontend and backend development. By
-                leveraging React.js, Node.js, Express.js, and MongoDB, I
-                delivered a seamless user experience with user authentication,
-                file sharing capabilities, and efficient data management.
-              </p>
             </p>
           </div>
 
           <div id="contact">
             <p className="content_heading contact">Contact</p>
-            <p className="home_content_contact">
+            <p className="home_content contact">
               <h2>Let's get in touch! </h2>
               <p>
                 <b>Phone:</b> +91 9698044857
