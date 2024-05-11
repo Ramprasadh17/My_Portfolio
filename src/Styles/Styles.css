@@ -8,7 +8,9 @@
     font-family: 'myFirstFont', sans-serif;
   }
    */
-
+   body {
+    zoom: 75%;
+  }
 .name{
     margin-top: -10px;
     font-size:50px;
