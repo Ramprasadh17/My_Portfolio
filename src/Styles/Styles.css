@@ -29,7 +29,7 @@ html,body{
     text-align: center;
     justify-content: center;
     overflow-y: auto;
-    align-content: center;
+    align-items:center ;
 
 }
 .profile_pic{
