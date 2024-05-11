@@ -172,3 +172,13 @@ html,body{
 #contact{
     background-image: linear-gradient(to bottom, rgb(46,57,151), rgb(29,239,248));    
 }
+
+@media (max-width: 768px) {
+    .content {
+        flex-direction: column; /* Change to row for smaller screens */
+    }
+    
+    .left_content_container {
+        flex-direction: row ; /* Change to column for smaller screens */
+    }
+}
